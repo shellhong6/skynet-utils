@@ -1,0 +1,21 @@
+{
+  "name": "@flyme/skynet-utils",
+  "version": "1.0.4",
+  "description": "skynet项目工具集",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skynet",
+    "utils"
+  ],
+  "publishConfig": {
+    "registry": "http://appff.meizu.com:8888"
+  },
+  "author": "guangjie",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^1.2.1"
+  }
+}
