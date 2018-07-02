@@ -1,6 +1,6 @@
 {
   "name": "@flyme/skynet-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "skynet项目工具集",
   "main": "lib/index.js",
   "scripts": {
